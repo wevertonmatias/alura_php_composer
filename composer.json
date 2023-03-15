@@ -1,0 +1,12 @@
+{
+    "name": "wevertonmatias/buscador_de_cursos",
+    "description": "Projeto que busca os cursos no site da Alura.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Weverton Matias",
+            "email": "weverton-matias@hotmail.com"
+        }
+    ],
+    "require": {}
+}
