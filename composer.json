@@ -8,5 +8,8 @@
             "email": "weverton-matias@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/dom-crawler": "5.4"
+    }
 }
