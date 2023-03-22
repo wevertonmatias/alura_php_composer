@@ -1,6 +1,8 @@
 <?php
 
 require 'vendor/autoload.php';
+Teste::mensagemNaTela();
+
 
 use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
